@@ -1,2 +1,2 @@
-# Internship_Task_2
+# Web Development_Task_2
 PORTFOLIO WEBSITE
